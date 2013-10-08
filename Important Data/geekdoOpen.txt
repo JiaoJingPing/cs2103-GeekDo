@@ -1,0 +1,8 @@
+#####################DO NOT Modify this file###################
+###EVENT ID__DESCRIPTION__START DATE__ENDDATE__TAG__PRIORITY###
+###############################################################
+1031175757==finish watching fate stay zero==Empty==01-11-2011==empty==Empty
+1031180939==Submit your CS2101 speech by Wednesday==Empty==01-11-2011==empty==Empty
+1031171600==prepare video demo==Empty==01-11-2011==cs2101==Empty
+1031171802==go shopping==Empty==03-11-2011==empty==Empty
+1031185650==buy milk  tommorrow==31-10-2011==Empty==empty==Empty

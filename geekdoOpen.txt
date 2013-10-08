@@ -1,0 +1,8 @@
+#####################DO NOT Modify this file###################
+###EVENT ID__DESCRIPTION__START DATE__ENDDATE__TAG__PRIORITY###
+###############################################################
+1106160714==DummyEvent.6.0==22-02-2011==26-08-2011==dummytag68.0==1
+1106165233==hehe from monday==06-11-2011==08-11-2011==empty==Empty
+1106165314==task from monday==06-11-2011==09-11-2011==empty==Empty
+1106165326==buy milk==06-11-2011==09-11-2011==empty==Empty
+1106165329==buy milk in three days==06-11-2011==Empty==empty==Empty
